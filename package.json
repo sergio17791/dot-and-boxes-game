@@ -1,0 +1,29 @@
+{
+  "name": "dots-and-boxes-game",
+  "version": "0.0.1",
+  "description": "Dot and boxes frontend game",
+  "main": "index.html",
+  "scripts": {
+    "style": "npx prettier . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sergio17791/dot-and-boxes-game.git"
+  },
+  "keywords": [
+    "dot-and-boxes"
+  ],
+  "author": "Sergio Muñoz @sergio17791",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergio17791/dot-and-boxes-game/issues"
+  },
+  "homepage": "https://github.com/sergio17791/dot-and-boxes-game#readme",
+  "dependencies": {
+    "phaser": "3.80.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
